@@ -10,9 +10,8 @@ Usando **Context API e Hooks** para controlar os estados globais.
 * Utilizar o _React Hook useEffect_;
 * Criar _React Hooks_ customizados.
 
-# Comandos
-
-Apos o clone utilize npm install para instalar as dependencia e npm start para iniciar.
+# Deploy
+https://star-wars-planets-filters-react.vercel.app/
 
 ## API de Star Wars Planets
 
